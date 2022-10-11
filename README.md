@@ -19,15 +19,15 @@ Number of rows in CSV should match with number of rows in Test Data given below
 
 The Accuracy score on Test data will be used to evaluate your submission.
 
-#Submission guidelines
+# Submission guidelines
 1. Your predictions file must be a CSV and its first row i.e header field must be prediction
 
 2. You must upload .ipynb notebook file as a solution to the question
 
-#Evaluation Metric
+# Evaluation Metric
 Accuracy evaluation metric is used for evaluating model predictions
 
-#Additional guidelines
+# Additional guidelines
 Participants agree to compete ethically in the challenge without getting into dishonest practices.  
 
 Stay honest to the community. If you come across any wrongdoing that hampers the decorum of the community on or off it, do report it to us. We will investigate the issue and take appropriate action to stop it.  
